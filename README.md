@@ -1,4 +1,4 @@
- <!--
+<!--
   GitHub Profile README for AvinashEdari
   Add your LinkedIn/email only when you are ready to publish them.
 -->
@@ -102,9 +102,9 @@ I prefer simple foundations, readable code, repeatable workflows, and steady ite
 [![Avinash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AvinashEdari&bg_color=00000000&color=22D3EE&line=8B5CF6&point=38BDF8&area=true&area_color=2563EB&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvinashEdari/AvinashEdari/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvinashEdari/AvinashEdari/output/github-contribution-grid-snake.svg">
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/AvinashEdari/AvinashEdari/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvinashEdari/AvinashEdari/output/github-contribution-grid-snake-cyan-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvinashEdari/AvinashEdari/output/github-contribution-grid-snake-cyan.svg">
+  <img alt="Avinash Edari's animated cyan and purple contribution snake" src="https://raw.githubusercontent.com/AvinashEdari/AvinashEdari/output/github-contribution-grid-snake-cyan.svg">
 </picture>
 
 </div>
